@@ -1,6 +1,6 @@
 # Challenge reverse array
 
-function to take an array and then reverse it 
+function to take an array and then reverse the same array 
 
 ## Whiteboard Process
 ![whiteboard](./2023-06-17%20(8).png)

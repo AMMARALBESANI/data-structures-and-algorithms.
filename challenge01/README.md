@@ -1,13 +1,13 @@
-# Challenge revers array
+# Challenge reverse array
 
-function to take an array then revers it 
+function to take an array and then reverse it 
 
 ## Whiteboard Process
-![white board](./2023-06-17%20(8).png)
+![whiteboard](./2023-06-17%20(8).png)
 
 ## Approach & Efficiency
 
-function to take array and swap it using variable to save the last index in variable then save the last index in the first one and so on 
+function to take an array and swap it using the variable to save the last index in a variable then save the last index in the first one and so on 
 the big O is o(n) because the for loop to print the reversed array 
 
 ## Solution

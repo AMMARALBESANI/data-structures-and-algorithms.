@@ -3,4 +3,4 @@
 [challenge02](./challenge02/README.md)
 [challenge03](./challenge03/README.md)
 
-[challenge04](./code-challenge-05)
+[challenge05](./code-challenge-05)

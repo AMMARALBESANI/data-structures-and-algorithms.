@@ -4,4 +4,4 @@
 [challenge03](./challenge03/README.md)
 
 [challenge05](./code-challenge-05)
-[challenge06](./code-challenge06)
+[challenge06](./code-callenge06)

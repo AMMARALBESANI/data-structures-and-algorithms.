@@ -9,3 +9,4 @@ The efficiency of the 'Add last' operation is constant time O(1) since it takes 
 The efficiency of the 'add before ' operation is linear time O(n) This occurs when the current node is the first node, and we need to traverse the entire list.
 The efficiency of the 'add after ' operation is linear time O(n) This occurs when the current node is the last node, and we need to traverse the entire list.
 ## solution
+![](./55.png)

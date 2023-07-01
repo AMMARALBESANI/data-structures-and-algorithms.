@@ -10,3 +10,6 @@ The efficiency of the 'add before ' operation is linear time O(n) This occurs wh
 The efficiency of the 'add after ' operation is linear time O(n) This occurs when the current node is the last node, and we need to traverse the entire list.
 ## solution
 ![](./55.png)
+
+## whiteboard
+![](./00.png)

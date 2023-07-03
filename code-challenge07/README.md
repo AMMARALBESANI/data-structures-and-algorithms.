@@ -6,3 +6,4 @@ The given code implements a method called kthFromEnd to find the kth element fro
 ![](./4040.png)
 
 ## whiteboard
+![](./9899.png)

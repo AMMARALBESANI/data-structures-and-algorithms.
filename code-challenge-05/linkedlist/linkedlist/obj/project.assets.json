@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ammar\\source\\repos\\AMMARALBESANI\\data-structures-and-algorithms\\code-challenge-05\\linkedlist\\linkedlist\\linkedlist.csproj",
+      "projectUniqueName": "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\code-challenge-05\\linkedlist\\linkedlist\\linkedlist.csproj",
       "projectName": "linkedlist",
-      "projectPath": "C:\\Users\\ammar\\source\\repos\\AMMARALBESANI\\data-structures-and-algorithms\\code-challenge-05\\linkedlist\\linkedlist\\linkedlist.csproj",
+      "projectPath": "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\code-challenge-05\\linkedlist\\linkedlist\\linkedlist.csproj",
       "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ammar\\source\\repos\\AMMARALBESANI\\data-structures-and-algorithms\\code-challenge-05\\linkedlist\\linkedlist\\obj\\",
+      "outputPath": "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\code-challenge-05\\linkedlist\\linkedlist\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",

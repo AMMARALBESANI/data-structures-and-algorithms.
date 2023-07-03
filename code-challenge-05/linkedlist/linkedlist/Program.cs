@@ -4,17 +4,24 @@
 
     public class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
-            MyLinkedList newlist = new MyLinkedList();
-            newlist.Addfirst(1);
-            newlist.Addfirst(2);
-            newlist.Addfirst(3);
-            newlist.Addfirst(4);
-            Console.WriteLine(newlist.Print());
+            try
+            {
+                MyLinkedList newlist = new MyLinkedList();
+                newlist.Addfirst(1);
+                newlist.Addfirst(2);
+                newlist.Addfirst(3);
+                Console.WriteLine(newlist.Print());
+            
+                Console.Write(newlist.kthFromEnd(2));
+            }catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message); 
+            }
 
-            Console.WriteLine(newlist.Find(8));
-        }
+
+        } 
     }
 
     public class Node
@@ -33,7 +40,7 @@
 
         public Node? Head { get; set; }
         public Node? Tail { get; set; }
-        public int counter { get; set; }
+        public int Counter { get; set; }
 
         public void Addfirst(int data)
         {
@@ -50,7 +57,7 @@
                 Head = newnode;
             }
 
-            counter++;
+            Counter++;
         }
 
 
@@ -79,6 +86,29 @@
             }
             return false;
         }
+
+        public int kthFromEnd(int index)
+        {
+            int i = 0;
+            Node h = Head;
+            
+            if(index>=Counter || index<0)
+            {
+               throw new Exception ("The index you put out of the linkedlist length");
+            }
+            while (h != null)
+            {
+                if ((Counter-1)-index==i)
+                {
+                    return h.Data;
+                   
+                };
+                i++;
+                h = h.Next;
+            }
+            return 0;
+        }
+
 
     }
 }

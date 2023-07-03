@@ -2,6 +2,7 @@
 using linkedListImplementation;
 using Microsoft.VisualStudio.TestPlatform.TestHost;
 using System.Collections.Generic;
+using System;
 
 namespace TestLinkeList
 {
@@ -46,14 +47,16 @@ namespace TestLinkeList
             //Arrange
             MyLinkedList newlist = new MyLinkedList();
             int expected = 3;
+            
             //Act
             newlist.Addfirst(1);
             newlist.Addfirst(2);
             newlist.Addfirst(3);
+            int actual = newlist.Counter;
 
 
             //Assert
-            Assert.Equal(3, newlist.counter);
+            Assert.Equal(3, actual);
         }
 
         [Fact]
@@ -113,7 +116,143 @@ namespace TestLinkeList
             //Assert
             Assert.Equal(expected, newlist.Print());
         }
+        //----------------------------------------------------------code challenge 07-------------------------------------------------//
 
+        [Fact]
+        public void greaterthanthelengthofthelinkedlist()
+        {
+            //Arrange
+            MyLinkedList newlist = new MyLinkedList();
+            string expected = "The index you put out of the linkedlist length";
+            string actual;
+
+            //Act
+            newlist.Addfirst(0);
+            newlist.Addfirst(1);
+            newlist.Addfirst(3);
+
+            try
+            {
+                newlist.kthFromEnd(4);
+                actual = "";
+            }
+            catch (Exception ex)
+            {
+                actual = ex.Message; 
+            }
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+
+
+        [Fact]
+        public  void indexandthelengthofthelistarethesame()
+        {
+
+            //Arrange
+            MyLinkedList newlist = new MyLinkedList();
+            string expected = "The index you put out of the linkedlist length";
+            string actual;
+            newlist.Addfirst(0);
+            newlist.Addfirst(1);
+            newlist.Addfirst(3);
+
+            //Act
+            try
+            {
+                newlist.kthFromEnd(3);
+                actual = "";
+            }
+            catch (Exception ex)
+            {
+                actual = ex.Message;
+            }
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+
+        [Fact]
+        public void indexisnegative()
+        {
+
+            //Arrange
+            MyLinkedList newlist = new MyLinkedList();
+            string expected = "The index you put out of the linkedlist length";
+            string actual;
+            newlist.Addfirst(0);
+            newlist.Addfirst(1);
+            newlist.Addfirst(3);
+
+            //Act
+            try
+            {
+                newlist.kthFromEnd(-1);
+                actual = "";
+            }
+            catch (Exception ex)
+            {
+                actual = ex.Message;
+            }
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+
+
+        [Fact]
+        public void Wherethelinkedlistisofasize1() 
+        {
+            //Arrange
+            MyLinkedList newlist = new MyLinkedList();
+            int expected =3 ;
+            string actual;
+          
+            newlist.Addfirst(3);
+
+            //Act
+            try
+            {
+                newlist.kthFromEnd(0);
+                actual = "";
+            }
+            catch (Exception ex)
+            {
+                actual = ex.Message;
+            }
+
+            //Assert
+            Assert.Equal(expected, newlist.kthFromEnd(0));
+        }
+
+        [Fact]
+        public void indexinthemiddel()
+        {
+
+            //Arrange
+            MyLinkedList newlist = new MyLinkedList();
+            int expected = 3;
+            string actual;
+            newlist.Addfirst(0);
+            newlist.Addfirst(1);
+            newlist.Addfirst(3);
+            newlist.Addfirst(4);
+
+            //Act
+            try
+            {
+                newlist.kthFromEnd(2);
+                actual = "";
+            }
+            catch (Exception ex)
+            {
+                actual = ex.Message;
+            }
+
+            //Assert
+            Assert.Equal(expected, newlist.kthFromEnd(2));
+        }
 
 
     }

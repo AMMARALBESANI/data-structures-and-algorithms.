@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codechallenge08", "codechallenge08\codechallenge08.csproj", "{3EBF7203-6A51-4EAD-860C-A684C6838879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testcodechallenge08", "Testcodechallenge08\Testcodechallenge08.csproj", "{EEDBA8D2-F399-4345-BBBD-E013FA695266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBF7203-6A51-4EAD-860C-A684C6838879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBF7203-6A51-4EAD-860C-A684C6838879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBF7203-6A51-4EAD-860C-A684C6838879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBF7203-6A51-4EAD-860C-A684C6838879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDBA8D2-F399-4345-BBBD-E013FA695266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDBA8D2-F399-4345-BBBD-E013FA695266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDBA8D2-F399-4345-BBBD-E013FA695266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDBA8D2-F399-4345-BBBD-E013FA695266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3A043C-FE48-4371-BD26-C42CF202EE5D}
+	EndGlobalSection
+EndGlobal

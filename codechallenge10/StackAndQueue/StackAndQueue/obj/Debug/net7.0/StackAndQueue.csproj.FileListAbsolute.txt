@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\refint\StackAndQueue.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge10\StackAndQueue\StackAndQueue\obj\Debug\net7.0\ref\StackAndQueue.dll

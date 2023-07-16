@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\codechallenge10\\StackAndQueue\\StackAndQueue"
+    "\\CodeChallenge11",
+    "\\CodeChallenge11\\Pseudo-Queue",
+    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue",
+    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue\\obj",
+    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue\\obj\\Debug",
+    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue\\obj\\Debug\\net7.0"
   ],
-  "SelectedNode": "\\codechallenge10",
+  "SelectedNode": "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue",
   "PreviewInSolutionExplorer": false
 }

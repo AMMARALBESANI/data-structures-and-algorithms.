@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\bin\Debug\net7.0\QueuePseudo.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\bin\Debug\net7.0\QueuePseudo.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\bin\Debug\net7.0\QueuePseudo.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\bin\Debug\net7.0\QueuePseudo.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\bin\Debug\net7.0\QueuePseudo.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\refint\QueuePseudo.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\QueuePseudo.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge11\QueuePseudo\QueuePseudo\obj\Debug\net7.0\ref\QueuePseudo.dll

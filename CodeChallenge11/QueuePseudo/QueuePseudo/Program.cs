@@ -1,6 +1,6 @@
 ﻿namespace QueuePseudo
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -10,9 +10,9 @@
             pseudoQueue.enqueue(3);
             pseudoQueue.enqueue(4);
             pseudoQueue.enqueue(5);
-            pseudoQueue.print();
+            Console.WriteLine(pseudoQueue.print());
             Console.WriteLine($"the deleted element is : {pseudoQueue.dequeue()}");
-            pseudoQueue.print();
+            Console.WriteLine(pseudoQueue.print());
         }
     }
 }

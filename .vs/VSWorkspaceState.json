@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CodeChallenge11",
-    "\\CodeChallenge11\\Pseudo-Queue",
-    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue",
-    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue\\obj",
-    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue\\obj\\Debug",
-    "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue\\obj\\Debug\\net7.0"
+    "\\CodeChallenge11\\QueuePseudo",
+    "\\CodeChallenge11\\QueuePseudo\\QueuePseudo"
   ],
-  "SelectedNode": "\\CodeChallenge11\\Pseudo-Queue\\Pseudo-Queue",
+  "SelectedNode": "\\CodeChallenge11\\QueuePseudo\\QueuePseudo\\pseudoQueue.cs",
   "PreviewInSolutionExplorer": false
 }

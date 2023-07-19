@@ -23,7 +23,7 @@ namespace QueuePseudo
         public int dequeue()
         {
             int b;
-            if (stack == null)
+            if (stack.Count==0)
             {
                 throw new Exception("You can't remove from empty queue");
             }
@@ -44,7 +44,7 @@ namespace QueuePseudo
 
         }
 
-        public void print()
+        public string print()
 
         {
 
@@ -54,7 +54,7 @@ namespace QueuePseudo
                 s += $"{{{item}}} ";
 
             }
-            Console.WriteLine(s);
+            return s;
 
 
         }

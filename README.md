@@ -7,7 +7,7 @@ Table of contents
 | Code Challenge 02     |[array-insert-shift](./challenge02)  |
 | Code Challenge 03     |[array-binary-search](./challenge03)   |
 | Code Challenge 05     |[Linked Lists](./code-challenge-05./README.md)   |
-| Code Challenge 06     |[Linked Lists insertion and delete](./code-challenge06./README.md)   |
+| Code Challenge 06     |[Linked Lists insertion and delete](./code-callenge06./README.md)   |
 | Code Challenge 07     |[k-th value from the end of a linked list](./CodeChallenge07./README.md)   |
 | Code-Challenge08     |[Linked Lists Zip](./codechallenge08./README.md)
 | Code-Challenge10     |[Stack&Queue](./codechallenge10./README.md)

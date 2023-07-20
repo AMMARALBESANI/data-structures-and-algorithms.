@@ -3,9 +3,9 @@
 Table of contents
 | Challenge    | Links     |
 |--------------|-----------|
-| Code Challenge 01 |[array-reverse](./codechallenge01)      |
-| Code Challenge 02     |[array-insert-shift](./codechallenge02)  |
-| Code Challenge 03     |[array-binary-search](./codechallenge03)   |
+| Code Challenge 01 |[array-reverse](./code-challenge01)      |
+| Code Challenge 02     |[array-insert-shift](./challenge02)  |
+| Code Challenge 03     |[array-binary-search](./challenge03)   |
 | Code Challenge 05     |[Linked Lists](./code-challenge-05./README.md)   |
 | Code Challenge 06     |[Linked Lists insertion and delete](./code-challenge06./README.md)   |
 | Code Challenge 07     |[k-th value from the end of a linked list](./CodeChallenge07./README.md)   |

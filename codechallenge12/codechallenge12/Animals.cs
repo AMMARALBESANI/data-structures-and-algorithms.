@@ -11,6 +11,8 @@ namespace codechallenge12
         
             public string Species { get; set; }
 
-           public string Name { get; set; }        
+            public string Name { get; set; }    
+        
+
     }
 }

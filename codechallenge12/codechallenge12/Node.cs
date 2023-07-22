@@ -11,7 +11,7 @@ namespace codechallenge12
         public Animals Data { get; set; }
         public Node next { get; set; }
 
-        public Node(Animals animal)
+        public Node( Animals animal )
         {
             Data = animal;
             

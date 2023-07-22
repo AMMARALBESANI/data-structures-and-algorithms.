@@ -14,6 +14,7 @@ namespace codechallenge12
         public void enqueue(Animals animal)
         {
             Node newnode = new Node(animal);
+
             if (newnode.Data.Species.ToLower() == "cat" || newnode.Data.Species.ToLower() == "dog")
             {
                 if (front == null)

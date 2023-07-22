@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack-queue-brackets", "stack-queue-brackets\stack-queue-brackets.csproj", "{66919716-5340-4A53-A14C-8AD394298CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestValidateBrackets", "TestValidateBrackets\TestValidateBrackets.csproj", "{E655FAD8-FB0C-4A9D-B8AD-1DCCC982AE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66919716-5340-4A53-A14C-8AD394298CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66919716-5340-4A53-A14C-8AD394298CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66919716-5340-4A53-A14C-8AD394298CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66919716-5340-4A53-A14C-8AD394298CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E655FAD8-FB0C-4A9D-B8AD-1DCCC982AE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E655FAD8-FB0C-4A9D-B8AD-1DCCC982AE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E655FAD8-FB0C-4A9D-B8AD-1DCCC982AE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E655FAD8-FB0C-4A9D-B8AD-1DCCC982AE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {705CC241-BE1F-464C-B011-A61587C2EB38}
+	EndGlobalSection
+EndGlobal

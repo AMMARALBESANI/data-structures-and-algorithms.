@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\refint\stack-queue-brackets.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\ref\stack-queue-brackets.dll

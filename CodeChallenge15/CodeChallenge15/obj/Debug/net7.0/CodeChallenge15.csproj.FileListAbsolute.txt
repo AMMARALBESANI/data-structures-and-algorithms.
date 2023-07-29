@@ -1,0 +1,17 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\bin\Debug\net7.0\CodeChallenge15.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\bin\Debug\net7.0\CodeChallenge15.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\bin\Debug\net7.0\CodeChallenge15.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\bin\Debug\net7.0\CodeChallenge15.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\bin\Debug\net7.0\CodeChallenge15.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.csproj.CopyComplete
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\refint\CodeChallenge15.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\CodeChallenge15.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge15\CodeChallenge15\obj\Debug\net7.0\ref\CodeChallenge15.dll

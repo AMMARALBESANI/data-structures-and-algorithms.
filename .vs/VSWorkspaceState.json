@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\codechallenge12",
-    "\\codechallenge12\\codechallenge12"
+    "\\codechallenge12\\codechallenge12",
+    "\\CodeChallenge13",
+    "\\CodeChallenge13\\stack-queue-brackets",
+    "\\CodeChallenge13\\stack-queue-brackets\\stack-queue-brackets",
+    "\\CodeChallenge13\\stack-queue-brackets\\TestValidateBrackets"
   ],
-  "SelectedNode": "\\codechallenge12\\Animalshelter(2).png",
+  "SelectedNode": "\\CodeChallenge13",
   "PreviewInSolutionExplorer": false
 }

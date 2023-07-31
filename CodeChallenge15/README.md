@@ -1,4 +1,4 @@
-## Trees
+## Trees 
 this code implement a tree data structure and you can traverse in the tree in three ways:
 
 1-inorder 
@@ -30,11 +30,28 @@ and the time complexity becomes O(N).
 The space complexity for the Add method is also O(log N) 
 on average and O(N) in the worst case due to the recursion stack.
 
+## FindMax
+Is method to find the max number in the tree even it is the root or not and the time complexity for it is O(N) because we iterate on the tree elements
+and the space complexity is O(N) that because we use a method in it and that method use recursion
+
+
+
 ## whiteboard
 ![](./lab15wh(2).png)
+
+
+## whiteboard for FindMax
+
+![](./whFindMax.png)
+
 
 
 
 ## solution
 
 ![](./solution15.png)
+
+
+## solution for FindMax
+
+![](./FindMax.png)

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class BinaryTree
 {
     public Node Root { get; set; }
-
+    public int Max { get; set; }
     public BinaryTree()
     {
         Root = null;
@@ -61,4 +61,22 @@ public class BinaryTree
             result.Add(node.Value);
         }
     }
+
+   public int FindMax()
+    {
+        
+        int temp = 0;
+        var x=  PostOrder();
+        for (int i = 0; i < x.Count; i++)
+        {
+            if (temp < x[i])
+            {
+                temp = x[i];
+            }
+        }
+        return temp;
+    }
+
+
+
 }

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CodeChallenge15/1.0.0": {
+        "dependencies": {
+          "Microsoft.Azure.Amqp": "2.6.3"
+        },
+        "runtime": {
+          "CodeChallenge15.dll": {}
+        }
+      },
+      "Microsoft.Azure.Amqp/2.6.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Azure.Amqp.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.6.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeChallenge15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Azure.Amqp/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iPbNNII4YZGkka7JQS0ZsZfZLcM7dwIoov/DyFiaemRqOTrdJCLgYnFBFhc/3TSh0ZI4/5TpxQPSPSckZ65jmA==",
+      "path": "microsoft.azure.amqp/2.6.3",
+      "hashPath": "microsoft.azure.amqp.2.6.3.nupkg.sha512"
+    }
+  }
+}

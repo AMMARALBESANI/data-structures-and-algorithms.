@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\codechallenge12\\codechallenge12",
     "\\CodeChallenge13",
     "\\CodeChallenge13\\stack-queue-brackets",
     "\\CodeChallenge13\\stack-queue-brackets\\stack-queue-brackets",
-    "\\CodeChallenge13\\stack-queue-brackets\\TestValidateBrackets"
+    "\\CodeChallenge13\\stack-queue-brackets\\TestValidateBrackets",
+    "\\CodeChallenge15",
+    "\\CodeChallenge15\\CodeChallenge15",
+    "\\CodeChallenge15\\TestBinaryTree"
   ],
-  "SelectedNode": "\\CodeChallenge13",
+  "SelectedNode": "\\CodeChallenge15\\CodeChallenge15\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

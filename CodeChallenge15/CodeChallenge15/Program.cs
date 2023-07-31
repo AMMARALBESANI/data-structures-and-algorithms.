@@ -13,8 +13,12 @@
             binarySearchTree.Add(6);
             binarySearchTree.Add(8);
 
-            Console.WriteLine("Contains 5: " + binarySearchTree.Contains(5));
-            Console.WriteLine("Contains 9: " + binarySearchTree.Contains(9));
+            
+
+           
+
+            Console.WriteLine(binarySearchTree.FindMax());
+            //Console.WriteLine("Contains 9: " + binarySearchTree.Contains(9));
 
         }
     }

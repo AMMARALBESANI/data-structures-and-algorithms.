@@ -34,7 +34,19 @@ on average and O(N) in the worst case due to the recursion stack.
 Is method to find the max number in the tree even it is the root or not and the time complexity for it is O(N) because we iterate on the tree elements
 and the space complexity is O(N) that because we use a method in it and that method use recursion
 
+## Breadth-first approach
 
+Breadth-first search involves search through a tree one level at a time.
+
+We traverse through one entire level of children nodes first,
+Before moving on to traverse through the grandchildren nodes.
+And we traverse through an entire level of grandchildren nodes
+Before going on to traverse through great-grandchildren nodes.
+breadth first traversal uses a queue (instead of the call stack via recursion) to traverse the width/breadth of the tree.
+
+## Approach & Efficiency
+Method	Time Complexity	Space Complexity
+Breadth-first	O(n)	O(1)
 
 ## whiteboard
 ![](./lab15wh(2).png)
@@ -55,3 +67,8 @@ and the space complexity is O(N) that because we use a method in it and that met
 ## solution for FindMax
 
 ![](./FindMax.png)
+
+## solution for Breadth-first approach
+
+
+

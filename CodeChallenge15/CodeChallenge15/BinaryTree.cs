@@ -77,6 +77,40 @@ public class BinaryTree
         return temp;
     }
 
+    public List<int> TreeBreadthFirst(BinaryTree tree)
+    {
+        List<int> result = new List<int>();
+
+        if (tree.Root == null)
+        {
+            return null;
+        }
+
+        Queue<Node> queueNodes = new Queue<Node>();
+
+        queueNodes.Enqueue(tree.Root);
+
+        while (queueNodes.Count > 0)
+        {
+            Node newNode = queueNodes.Peek();
+
+            result.Add(newNode.Value);
+
+            queueNodes.Dequeue();
+
+            if (newNode.Left != null)
+            {
+                queueNodes.Enqueue(newNode.Left);
+            }
+            if (newNode.Right != null)
+            {
+                queueNodes.Enqueue(newNode.Right);
+            }
+        }
+
+        return result;
+    }
+
 
 
 }

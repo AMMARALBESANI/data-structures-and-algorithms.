@@ -1,26 +1,25 @@
 ﻿using CodeChallenge15;
 using System;
 
-public class BinarySearchTree : BinaryTree
+public class BinarySearchTree<T> : BinaryTree<T> where T : IComparable<T>
 {
-   
-    public void Add(int value)
+    public void Add(T value)
     {
         Root = AddNode(Root, value);
     }
 
-    private Node AddNode(Node node, int value)
+    private Node<T> AddNode(Node<T> node, T value)
     {
         if (node == null)
         {
-            return new Node(value);
+            return new Node<T>(value);
         }
 
-        if (value < node.Value)
+        if (value.CompareTo(node.Value) < 0)
         {
             node.Left = AddNode(node.Left, value);
         }
-        else if (value > node.Value)
+        else if (value.CompareTo(node.Value) > 0)
         {
             node.Right = AddNode(node.Right, value);
         }
@@ -28,23 +27,23 @@ public class BinarySearchTree : BinaryTree
         return node;
     }
 
-    public bool Contains(int value)
+    public bool Contains(T value)
     {
         return ContainsValue(Root, value);
     }
 
-    private bool ContainsValue(Node node, int value)
+    private bool ContainsValue(Node<T> node, T value)
     {
         if (node == null)
         {
             return false;
         }
 
-        if (node.Value == value)
+        if (node.Value.CompareTo(value) == 0)
         {
             return true;
         }
-        else if (value < node.Value)
+        else if (value.CompareTo(node.Value) < 0)
         {
             return ContainsValue(node.Left, value);
         }
@@ -53,8 +52,4 @@ public class BinarySearchTree : BinaryTree
             return ContainsValue(node.Right, value);
         }
     }
-
-    
-
-    
 }

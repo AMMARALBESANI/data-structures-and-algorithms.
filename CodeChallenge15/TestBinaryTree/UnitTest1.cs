@@ -5,14 +5,14 @@ public class BinarySearchTreeTests
     [Fact]
     public void CanInstantiateEmptyTree()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         Assert.Null(binarySearchTree.Root);
     }
 
     [Fact]
     public void CanInstantiateTreeWithSingleNode()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         Assert.NotNull(binarySearchTree.Root);
         Assert.Equal(5, binarySearchTree.Root.Value);
@@ -21,7 +21,7 @@ public class BinarySearchTreeTests
     [Fact]
     public void CanAddLeftAndRightChildToNode()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         binarySearchTree.Add(3);
         binarySearchTree.Add(7);
@@ -34,7 +34,7 @@ public class BinarySearchTreeTests
     [Fact]
     public void CanReturnPreOrderTraversal()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         binarySearchTree.Add(3);
         binarySearchTree.Add(7);
@@ -50,7 +50,7 @@ public class BinarySearchTreeTests
     [Fact]
     public void CanReturnInOrderTraversal()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         binarySearchTree.Add(3);
         binarySearchTree.Add(7);
@@ -66,7 +66,7 @@ public class BinarySearchTreeTests
     [Fact]
     public void CanReturnPostOrderTraversal()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         binarySearchTree.Add(3);
         binarySearchTree.Add(7);
@@ -82,7 +82,7 @@ public class BinarySearchTreeTests
     [Fact]
     public void ContainsReturnsTrueForExistingValue()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         binarySearchTree.Add(3);
         binarySearchTree.Add(7);
@@ -92,7 +92,7 @@ public class BinarySearchTreeTests
     [Fact]
     public void ContainsReturnsFalseForNonExistingValue()
     {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        BinarySearchTree<int> binarySearchTree = new BinarySearchTree<int>();
         binarySearchTree.Add(5);
         binarySearchTree.Add(3);
         binarySearchTree.Add(7);

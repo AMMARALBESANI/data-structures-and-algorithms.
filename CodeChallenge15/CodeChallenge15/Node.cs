@@ -7,13 +7,14 @@ using System.Threading.Tasks;
 
 namespace CodeChallenge15
 {
-    public class Node
+    public class Node <T>
     {
-        public int Value { get; set; }
-        public Node Left { get; set; }
-        public Node Right { get; set; }
+        public T Value { get; set; }
+        
+        public Node<T> Left { get; set; }
+        public Node<T> Right { get; set; }
 
-        public Node(int value)
+        public Node(T value)
         {
             Value = value;
             Left = null;

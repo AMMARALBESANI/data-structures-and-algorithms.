@@ -2,37 +2,37 @@
 using System;
 using System.Collections.Generic;
 
-public class BinaryTree
+public class BinaryTree<T>
 {
-    public Node Root { get; set; }
+    public Node<T> Root { get; set; }
     public int Max { get; set; }
     public BinaryTree()
     {
         Root = null;
     }
 
-    public List<int> PreOrder()
+    public List<T> PreOrder()
     {
-        List<int> result = new List<int>();
+        List<T> result = new List<T>();
         PreOrderTraversal(Root, result);
         return result;
     }
 
-    public List<int> InOrder()
+    public List<T> InOrder()
     {
-        List<int> result = new List<int>();
+        List<T> result = new List<T>();
         InOrderTraversal(Root, result);
         return result;
     }
 
-    public List<int> PostOrder()
+    public List<T> PostOrder()
     {
-        List<int> result = new List<int>();
+        List<T> result = new List<T>();
         PostOrderTraversal(Root, result);
         return result;
     }
 
-    private void PreOrderTraversal(Node node, List<int> result)
+    private void PreOrderTraversal(Node<T> node, List<T> result)
     {
         if (node != null)
         {
@@ -42,7 +42,7 @@ public class BinaryTree
         }
     }
 
-    private void InOrderTraversal(Node node, List<int> result)
+    private void InOrderTraversal(Node<T> node, List<T> result)
     {
         if (node != null)
         {
@@ -52,7 +52,7 @@ public class BinaryTree
         }
     }
 
-    private void PostOrderTraversal(Node node, List<int> result)
+    private void PostOrderTraversal(Node<T> node, List<T> result)
     {
         if (node != null)
         {
@@ -62,37 +62,37 @@ public class BinaryTree
         }
     }
 
-   public int FindMax()
+   public T FindMax()
     {
         
-        int temp = 0;
+        T temp = default(T);
         var x=  PostOrder();
-        for (int i = 0; i < x.Count; i++)
+        foreach (var num in x)
         {
-            if (temp < x[i])
+            if (Comparer<T>.Default.Compare(num,temp)>0)
             {
-                temp = x[i];
+                temp= num;
             }
         }
         return temp;
     }
 
-    public List<int> TreeBreadthFirst(BinaryTree tree)
+    public List<T> TreeBreadthFirst<T>(BinaryTree<T> tree)
     {
-        List<int> result = new List<int>();
+        List<T> result = new List<T>();
 
         if (tree.Root == null)
         {
             return null;
         }
 
-        Queue<Node> queueNodes = new Queue<Node>();
+        Queue<Node<T>> queueNodes = new Queue<Node<T>>();
 
         queueNodes.Enqueue(tree.Root);
 
         while (queueNodes.Count > 0)
         {
-            Node newNode = queueNodes.Peek();
+            Node<T> newNode = queueNodes.Peek();
 
             result.Add(newNode.Value);
 

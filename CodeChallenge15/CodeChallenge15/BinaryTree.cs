@@ -62,16 +62,16 @@ public class BinaryTree<T>
         }
     }
 
-   public T FindMax()
+    public T FindMax()
     {
-        
+
         T temp = default(T);
-        var x=  PostOrder();
+        var x = PostOrder();
         foreach (var num in x)
         {
-            if (Comparer<T>.Default.Compare(num,temp)>0)
+            if (Comparer<T>.Default.Compare(num, temp) > 0)
             {
-                temp= num;
+                temp = num;
             }
         }
         return temp;
@@ -110,6 +110,59 @@ public class BinaryTree<T>
 
         return result;
     }
+
+
+    public class KaryTree<T>
+    {
+        public T Value { get; set; }
+        public List<KaryTree<T>> Children { get; set; }
+
+        public KaryTree(T value)
+        {
+            Value = value;
+            Children = new List<KaryTree<T>>();
+        }
+    }
+
+
+    public static KaryTree<string> FizzBuzz(KaryTree<int> root)
+    {
+        if (root == null)
+        {
+            return null;
+        }
+
+        KaryTree<string> newRoot = new KaryTree<string>(FizzBuzzValue(root.Value));
+
+        foreach (var child in root.Children)
+        {
+            newRoot.Children.Add(FizzBuzz(child));
+        }
+
+        return newRoot;
+    }
+
+    private static string FizzBuzzValue(int value)
+    {
+        if (value % 3 == 0 && value % 5 == 0)
+        {
+            return "FizzBuzz";
+        }
+        else if (value % 3 == 0)
+        {
+            return "Fizz";
+        }
+        else if (value % 5 == 0)
+        {
+            return "Buzz";
+        }
+        else
+        {
+            return value.ToString();
+        }
+    }
+
+
 
 
 

@@ -48,6 +48,22 @@ breadth first traversal uses a queue (instead of the call stack via recursion) t
 Method	Time Complexity	Space Complexity
 Breadth-first	O(n)	O(1)
 
+## FizzBuzz Approach & Efficiency
+
+### Approach:
+The approach to solving the FizzBuzz tree transformation problem involves recursively traversing the given k-ary tree and applying the FizzBuzz transformation rules to each node's value. The algorithm iterates through the tree nodes, and for each node:
+
+Check if the value is divisible by 3 and/or 5.
+Apply the corresponding transformation based on the divisibility conditions.
+Recursively apply the transformation to the node's children.
+
+### Efficiency:
+Time Complexity: The time complexity of the algorithm is O(n), where n is the total number of nodes in the k-ary tree. The algorithm visits each node once, and for each node, the FizzBuzz transformation rules are applied in constant time.
+
+Space Complexity: The space complexity is O(h), where h is the height of the k-ary tree. This is due to the recursive nature of the algorithm. In the worst case, when the tree is degenerate and resembles a linked list, the height h approaches n (the number of nodes), resulting in a space complexity of O(n). However, for a balanced k-ary tree, the height would be much smaller, resulting in a space complexity closer to O(log n).
+
+
+
 ## whiteboard
 ![](./lab15wh(2).png)
 
@@ -59,7 +75,8 @@ Breadth-first	O(n)	O(1)
 ## whiteboard for TreeBreadthFirst
 ![](./WH.jpg)
 
-
+##  whiteboard for FizzBuzz
+![](./fizzbuzzwh.jpg)
 
 
 ## solution

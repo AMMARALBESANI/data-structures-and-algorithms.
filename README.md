@@ -1,14 +1,19 @@
-# data-structures-and-algorithms.
-[challenge01](./challenge01/README.md)
-[challenge02](./challenge02/README.md)
-[challenge03](./challenge03/README.md)
-
-[challenge05](./code-challenge-05)
-[challenge06](./code-callenge06)
-[challenge07](./CodeChallenge07)
-[challenge08](./codechallenge08)
-[challenge10](./codechallenge10)
-[challenge11](./CodeChallenge11)
+# data-structures-and-algorithms
+---
+Table of contents
+| Challenge    | Links     |
+|--------------|-----------|
+| Code Challenge 01 |[array-reverse](./code-challenge01)      |
+| Code Challenge 02     |[array-insert-shift](./challenge02)  |
+| Code Challenge 03     |[array-binary-search](./challenge03)   |
+| Code Challenge 05     |[Linked Lists](./code-challenge-05)   |
+| Code Challenge 06     |[Linked Lists insertion and delete](./code-callenge06)   |
+| Code Challenge 07     |[k-th value from the end of a linked list](./CodeChallenge07)   |
+| Code-Challenge08     |[Linked Lists Zip](./codechallenge08)
+| Code-Challenge10     |[Stack&Queue](./codechallenge10)
+| Code-Challenge11     |[stack-queue-pseudo](./CodeChallenge11)
+| Code-Challenge12     |[stack-queue-animal-shelter](./codechallenge12)
+| Code-Challenge13    |[stack_queue_brackets](./CodeChallenge13)
 
 
 

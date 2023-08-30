@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\bin\Debug\net7.0\CodeChallenge26.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\bin\Debug\net7.0\CodeChallenge26.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\bin\Debug\net7.0\CodeChallenge26.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\bin\Debug\net7.0\CodeChallenge26.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\bin\Debug\net7.0\CodeChallenge26.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\refint\CodeChallenge26.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\CodeChallenge26.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenge26\CodeChallenge26\obj\Debug\net7.0\ref\CodeChallenge26.dll

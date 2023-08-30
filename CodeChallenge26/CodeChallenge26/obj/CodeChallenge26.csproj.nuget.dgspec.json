@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ammar\\source\\repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj": {}
+    "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ammar\\source\\repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj": {
+    "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ammar\\source\\repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj",
+        "projectUniqueName": "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj",
         "projectName": "CodeChallenge26",
-        "projectPath": "C:\\Users\\ammar\\source\\repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj",
+        "projectPath": "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\CodeChallenge26.csproj",
         "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammar\\source\\repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\obj\\",
+        "outputPath": "C:\\Users\\ammar\\Source\\Repos\\data-structures-and-algorithms\\CodeChallenge26\\CodeChallenge26\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",

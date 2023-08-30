@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/086fa17b-ed0c-4dd5-a0c9-45448c761bbe.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/1f3dc3eb-300c-46b1-82da-f7f622f3c651.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/a3c27b96-3605-4743-b85b-a54fe1d6fa67.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/534d0790-7e11-4a30-9b39-b781d5f27fb7.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/ab0a2563-312d-4c55-b156-1100126a983c.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/c20a8317-cfd5-4f61-bbf4-c96d8596cebd.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/e8b9cd33-3c4f-4a23-b1d1-3eee1e704e7b.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/cf7e2c2b-0d1a-4d44-84e9-06e9948866da.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/ededf9b3-1b84-4367-9811-fcf79aaba522.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/FileContentIndex/f3624b31-8dd2-4d8d-ab04-0940bf190c3f.vsidx
+/CodeChallenge26/.vs/CodeChallenge26/v17/.suo
+/CodeChallenge26/CodeChallenge26/bin/Debug/net7.0/CodeChallenge26.dll
+/CodeChallenge26/CodeChallenge26/bin/Debug/net7.0/CodeChallenge26.pdb
+/CodeChallenge26/CodeChallenge26/obj/Debug/net7.0/CodeChallenge26.assets.cache

@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\bin\Debug\net7.0\codechallenge27.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\bin\Debug\net7.0\codechallenge27.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\bin\Debug\net7.0\codechallenge27.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\bin\Debug\net7.0\codechallenge27.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\bin\Debug\net7.0\codechallenge27.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\refint\codechallenge27.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\codechallenge27.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge27\codechallenge27\obj\Debug\net7.0\ref\codechallenge27.dll

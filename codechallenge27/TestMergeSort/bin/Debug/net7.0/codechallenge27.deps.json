@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "codechallenge27/1.0.0": {
+        "runtime": {
+          "codechallenge27.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "codechallenge27/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

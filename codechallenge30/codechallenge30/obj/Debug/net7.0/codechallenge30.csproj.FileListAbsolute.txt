@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\bin\Debug\net7.0\codechallenge30.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\bin\Debug\net7.0\codechallenge30.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\bin\Debug\net7.0\codechallenge30.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\bin\Debug\net7.0\codechallenge30.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\bin\Debug\net7.0\codechallenge30.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\refint\codechallenge30.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\codechallenge30.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\codechallenge30\codechallenge30\obj\Debug\net7.0\ref\codechallenge30.dll

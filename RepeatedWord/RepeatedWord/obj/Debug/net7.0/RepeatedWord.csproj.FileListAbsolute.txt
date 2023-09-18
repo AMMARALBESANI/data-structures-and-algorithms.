@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\bin\Debug\net7.0\RepeatedWord.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\bin\Debug\net7.0\RepeatedWord.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\bin\Debug\net7.0\RepeatedWord.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\bin\Debug\net7.0\RepeatedWord.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\bin\Debug\net7.0\RepeatedWord.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\refint\RepeatedWord.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\RepeatedWord.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\RepeatedWord\RepeatedWord\obj\Debug\net7.0\ref\RepeatedWord.dll

@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\bin\Debug\net7.0\CodeChallenage33.exe
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\bin\Debug\net7.0\CodeChallenage33.deps.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\bin\Debug\net7.0\CodeChallenage33.runtimeconfig.json
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\bin\Debug\net7.0\CodeChallenage33.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\bin\Debug\net7.0\CodeChallenage33.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.AssemblyInfo.cs
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\refint\CodeChallenage33.dll
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.pdb
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\CodeChallenage33.genruntimeconfig.cache
+C:\Users\ammar\source\repos\data-structures-and-algorithms\CodeChallenage33\CodeChallenage33\obj\Debug\net7.0\ref\CodeChallenage33.dll

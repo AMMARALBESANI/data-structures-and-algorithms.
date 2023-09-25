@@ -1,3 +1,6 @@
+using Buybook.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Bybook
 {
 	public class Program
@@ -8,6 +11,9 @@ namespace Bybook
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
+			builder.Services.AddDbContext<BookDbContext>(options=>
+			options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 			var app = builder.Build();
 

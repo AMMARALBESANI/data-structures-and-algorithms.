@@ -1,7 +1,8 @@
 using Buybook.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace Bybook
+namespace Buybook
+
 {
 	public class Program
 	{

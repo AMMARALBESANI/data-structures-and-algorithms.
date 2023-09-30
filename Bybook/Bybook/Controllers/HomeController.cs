@@ -1,8 +1,8 @@
-﻿using Bybook.Models;
+﻿using Buybook.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Bybook.Controllers
+namespace Buybook.Controllers
 {
 	public class HomeController : Controller
 	{

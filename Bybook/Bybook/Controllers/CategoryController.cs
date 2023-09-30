@@ -6,15 +6,15 @@ namespace Buybook.Controllers
 {
 	public class CategoryController : Controller
 	{
-		private readonly BookDbContext _Db;
+        private readonly BookDbContext _Db;
         public CategoryController(BookDbContext Db)
         {
-             _Db = Db;
+            _Db = Db;
         }
         public IActionResult Index()
-		{
-			List<Category> objlist=_Db.categories.ToList();
-			return View(objlist);
-		}
-	}
+        {
+            List<Category> objlist = _Db.categories.ToList();
+            return View(objlist);
+        }
+    }
 }

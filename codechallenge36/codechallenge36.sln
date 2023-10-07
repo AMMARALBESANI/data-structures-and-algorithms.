@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codechallenge36", "codechallenge36\codechallenge36.csproj", "{3A03092C-9299-4C38-B203-71442190BE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graph-breadth-first-test", "graph-breadth-first-test\graph-breadth-first-test.csproj", "{BDB415E9-F572-4002-A9C4-C346FDCC9BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A03092C-9299-4C38-B203-71442190BE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A03092C-9299-4C38-B203-71442190BE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A03092C-9299-4C38-B203-71442190BE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A03092C-9299-4C38-B203-71442190BE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB415E9-F572-4002-A9C4-C346FDCC9BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB415E9-F572-4002-A9C4-C346FDCC9BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB415E9-F572-4002-A9C4-C346FDCC9BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB415E9-F572-4002-A9C4-C346FDCC9BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9FBFDF-0165-4ECF-8C0E-CF2762818D78}
+	EndGlobalSection
+EndGlobal

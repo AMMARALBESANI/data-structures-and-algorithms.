@@ -16,5 +16,19 @@ namespace Buybook.Controllers
             List<Category> objlist = _Db.categories.ToList();
             return View(objlist);
         }
-    }
+
+
+        public IActionResult Create( )
+        {
+            return View();
+        }
+
+        [HttpPost]
+		public IActionResult Create(Category category)
+		{
+            _Db.categories.Add(category);
+            _Db.SaveChanges();
+			return RedirectToAction("Index");
+		}
+	}
 }
